@@ -1,0 +1,16 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.testing.pytestArgs": [
+        "sample_depoly18"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.pythonPath": "C:\\Python37-32\\python.exe",
+    "python.linting.flake8Enabled": false,
+    "python.linting.banditEnabled": false,
+    "python.testing.promptToConfigure": false
+}
